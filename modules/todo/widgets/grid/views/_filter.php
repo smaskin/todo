@@ -1,4 +1,4 @@
-<?
+<?php
 
 use app\modules\todo\models\Todo;
 use yii\helpers\Html;
